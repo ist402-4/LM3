@@ -1,2 +1,2 @@
-![Server](TLS_Server/server.png)
+![Server](TLS_Server/sever.png)
 ![Client](TLS_Server/client.png)
